@@ -1,5 +1,10 @@
 setup.py
+sample_package/__init__.py
 sample_package.egg-info/PKG-INFO
 sample_package.egg-info/SOURCES.txt
 sample_package.egg-info/dependency_links.txt
 sample_package.egg-info/top_level.txt
+sample_package/folder1/__init__.py
+sample_package/folder1/file1.py
+sample_package/folder2/__init__.py
+sample_package/folder2/file2.py
